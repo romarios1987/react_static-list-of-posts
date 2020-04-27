@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAIA,WACE,YAAa,CACb,qBAAsB,CACtB,kBACF","file":"main.ae1300f5.chunk.css","sourcesContent":["/*.App {*/\n/*  text-align: center;*/\n/*}*/\n\n.user-info {\n  display: flex;\n  flex-direction: column;\n  margin-bottom: 30px;\n}\n"]}
